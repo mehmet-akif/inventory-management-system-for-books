@@ -41,6 +41,7 @@ To see the project in action, watch the [Demo Video](https://drive.google.com/fi
 ## Features
 - Add new books to the inventory.
 - Filter books based on title, author, genre, and publication date.
+- Display filtered results in a table format.
 - Export book data in JSON format.
   
 ## API Endpoints
