@@ -29,7 +29,7 @@ To see the project in action, watch the [Demo Video](https://drive.google.com/fi
         
    - Run the SQL script to create the database and table:
         ```bash
-        source db/database_setup.sql;
+        source public/database_setup.sql;
 
 4. **Start the Backend Server**:
    ```bash
