@@ -2,6 +2,10 @@
 
 A simple inventory management system for books built with Node.js, MySQL, Express, and a front-end interface. Users can add books, filter by different criteria, and export the book data.
 
+## Demo Video
+
+To see the project in action, watch the [Demo Video](https://drive.google.com/file/d/1nj7fDx36HBAM_9UULLicm_D75RRNv818/view?usp=sharing).
+
 ## Prerequisites
 - Node.js installed (v12+)
 - MySQL installed (v8.0+)
