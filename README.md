@@ -20,7 +20,7 @@ To see the project in action, watch the [Demo Video](https://drive.google.com/fi
 
 2. **Install Node.js Dependencies**:
    ```bash
-  npm install
+   npm install
   
 3. **Set Up the Database**:
    - Log into MySQL using your terminal:
@@ -29,11 +29,11 @@ To see the project in action, watch the [Demo Video](https://drive.google.com/fi
         
    - Run the SQL script to create the database and table:
         ```bash
-       source db/database_setup.sql;
+        source db/database_setup.sql;
 
 4. **Start the Backend Server**:
    ```bash
-  node src/server.js
+   node src/server.js
 
 5. **Access the Frontend**:
    - Open index.html located in the public/ folder in your web browser or set up a local web server to run the front-end.
