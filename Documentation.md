@@ -16,7 +16,17 @@ This section covers the **usage instructions**, any **design decisions**, and **
    - Use the filter form to search for books by title, author, genre, or publication date.
    - The filtered results will be displayed below the form.
 
-3. **Exporting Data**:
+3. **Displaying Filtered Results**:
+   - After applying a filter, the filtered books will be shown in a **table format**.
+   - The table includes the following columns:
+     - Book ID
+     - Title
+     - Author
+     - Genre
+     - Publication Date
+     - ISBN
+
+4. **Exporting Data**:
    - Click the "Export Books" button to download the book data in JSON format.
 
 ## Design Decisions
